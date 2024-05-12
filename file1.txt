@@ -1,0 +1,5 @@
+This is my file1 for VS demo.
+it is just text file1.
+tring again.
+second commit 
+Trying again.
